@@ -33,14 +33,14 @@ $(document).ready(function () {
 
     // Typing Text Animation
     new Typed(".typing", {
-        strings: ["Fullstack Developer", "Software Developer", "Python Developer", "Founder", "Author"],
+        strings: ["SEO Executive", "Digital Marketing Enthusiast", "On-Page & Off-Page SEO Specialist"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true,
     });
 
     new Typed(".typing-2", {
-        strings: ["Fullstack Developer", "Software Developer", "Python Developer", "Founder", "Author"],
+        strings: ["SEO Executive", "Digital Marketing Enthusiast", "On-Page & Off-Page SEO Specialist"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true,
@@ -60,3 +60,4 @@ $(document).ready(function () {
         },
     });
 });
+
